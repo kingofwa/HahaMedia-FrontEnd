@@ -4,8 +4,7 @@
   "description": "Create a website for listening to music, using javascript and html, css.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "[my-framework] build --output public"
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kingofwa/HahaMedia-FrontEnd/issues"
   },
-  "homepage": "https://github.com/kingofwa/HahaMedia-FrontEnd#readme"
+  "homepage": "https://github.com/kingofwa/HahaMedia-FrontEnd#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
 }
