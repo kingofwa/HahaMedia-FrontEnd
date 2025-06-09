@@ -1,11 +1,11 @@
 {
   "name": "haha",
   "version": "1.0.0",
-  "description": "Create a website for listening to music, using javascript and html, css.\r  You can visit it in: https://vikdang.github.io/Code_web_music_player/",
+  "description": "Create a website for listening to music, using javascript and html, css.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Build script chạy thành công!\""
+    "build": "[my-framework] build --output public"
   },
   "repository": {
     "type": "git",
