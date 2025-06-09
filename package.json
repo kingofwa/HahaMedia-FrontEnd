@@ -1,0 +1,21 @@
+{
+  "name": "haha",
+  "version": "1.0.0",
+  "description": "Create a website for listening to music, using javascript and html, css.\r  You can visit it in: https://vikdang.github.io/Code_web_music_player/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build script chạy thành công!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingofwa/HahaMedia-FrontEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingofwa/HahaMedia-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/kingofwa/HahaMedia-FrontEnd#readme"
+}

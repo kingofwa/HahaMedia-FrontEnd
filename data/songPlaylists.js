@@ -2,6 +2,18 @@
 var listSong = [
     [
         {
+            name: "Tràn Bộ Nhớ (Zang X Lyz Remix)",
+            singer: ["Dương Domic"],
+            path: "./assets/music/listSong1/TranBoNhoZangXLyzRemix-DuongDomic-16662751.mp3",
+            image: "./assets/img/music/listSong1/Tranbonho.jpg"
+        },
+        {
+            name: "Mất Kết Nối (Slown Remix)",
+            singer: ["Dương Domic"],
+            path: "./assets/music/listSong1/MatKetNoiSlownRemix-DuongDomic-17020823.mp3",
+            image: "./assets/img/music/listSong1/matketnoi.jpg"
+        },
+        {
             name: "Cứ Chill Thôi",
             singer: ["Chillies", "Suni Hạ Linh", "Rhymastic"],
             path: "./assets/music/listSong1/song1.mp3",
